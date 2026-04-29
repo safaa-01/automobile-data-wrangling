@@ -26,3 +26,5 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
 ## 📁 Dataset
 [IBM Automobile Dataset](https://archive.ics.uci.edu/ml/datasets/automobile)
+## 📈 Visualizations
+![Visualizations](image.png)
